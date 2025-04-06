@@ -8,6 +8,7 @@ paginate: true
 <!-- _class: lead -->
 # M5 SAVE CSV DATA
 # to GAS(Google Apps Script)
+<!-- <br><br>　Meisei University : 菊池康太 -->
 
 ---
 ## GAS(Google Apps Script)とは？

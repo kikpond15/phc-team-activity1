@@ -8,9 +8,7 @@ paginate: true
 <!-- _class: lead -->
 # M5 SETUP
 ## M5Burner & UIFLOW　
-
 <!-- <br><br>　Meisei University : 菊池康太 -->
-<br><br>　チームアクティビティ1：尼岡、末田、菊池
 
 ---
 ## M5Stackとは？

@@ -8,8 +8,7 @@ paginate: true
 <!-- _class: lead -->
 # M5 SAVE CSV DATA
 # to SD CARD　
-
-<br><br>　チームアクティビティ1：尼岡、末田、菊池
+<!-- <br><br>　Meisei University : 菊池康太 -->
 
 ---
 ## SDカードにデータをSaveする
