@@ -1,4 +1,4 @@
-# Team-Activity1 with Physical Computing Team
+# Physical Computing Team Activity1
 
 ## How to M5Stack
 - [Setup](/howto_m5stack/setup.md)
